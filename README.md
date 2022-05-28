@@ -1,4 +1,4 @@
-# Clone-Tinder
+Tinder
 Desafio Iniciante - Ímã Learning Place
 
 Imagem do Projeto!
