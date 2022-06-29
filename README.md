@@ -1,7 +1,7 @@
 # Tinder
 Desafio Iniciante - Ímã Learning Place
 
-https://unrivaled-unicorn-19e3d3.netlify.app/
+Link:https://unrivaled-unicorn-19e3d3.netlify.app/
 
 
 Imagem do Projeto!
