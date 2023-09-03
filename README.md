@@ -15,7 +15,7 @@ Navegue até o diretório onde o repositório foi clonado e abra o arquivo index
 
 Veja o Projeto Online:
 
-Para uma prévia online do projeto, <a href="https://unrivaled-unicorn-19e3d3.netlify.app/">clique aqui</a>!
+Para uma prévia online do projeto, <a href="https://unrivaled-unicorn-19e3d3.netlify.app/" target="_blank">clique aqui</a>!
 
 # Personalização
 Sinta-se à vontade para personalizar este projeto adicionando mais recursos, como a autenticação de usuários, a integração com um backend, ou qualquer outra funcionalidade que desejar.
@@ -24,4 +24,4 @@ Lembre-se de que este é um projeto básico para fins educacionais e pode ser ex
 
 Divirta-se explorando e construindo o seu clone do Tinder!
 
-<a href="https://unrivaled-unicorn-19e3d3.netlify.app/">Veja o Projeto Online!</a>
+<a href="https://unrivaled-unicorn-19e3d3.netlify.app/" target="_blank">Veja o Projeto Online!</a>
